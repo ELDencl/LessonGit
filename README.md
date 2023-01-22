@@ -1,1 +1,1 @@
-# LessonGit
+# My first project
